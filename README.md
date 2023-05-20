@@ -6,7 +6,7 @@
 Esse é um projeto Web Resposivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
 ## 🚀 Tecnologias
-Esse projeto foi desenvolvido durante o NLW da Rockseat com as seguintes tecnologias:
+Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
 
 - HTML
 - CSS
